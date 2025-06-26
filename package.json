@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.5.0"
+  },
+  "name": "kevaybot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevayy/kevay-bot-2.0.git"
+  },
+  "author": "Kevin (Kevay)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevayy/kevay-bot-2.0/issues"
+  },
+  "homepage": "https://github.com/Kevayy/kevay-bot-2.0#readme",
+  "description": ""
+}
