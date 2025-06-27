@@ -9,6 +9,6 @@ module.exports = {
 
         setInterval(client.pickPresence, 900 * 1000);
 
-        console.log(`Nyhef is online as: ${client.user.tag}!`);
+        console.log(`Kevay is online as: ${client.user.tag}!`);
     }
 }
