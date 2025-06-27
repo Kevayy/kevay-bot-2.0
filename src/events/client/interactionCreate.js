@@ -11,7 +11,7 @@ module.exports = {
             if (!command) return;
 
             try {
-                command.execute(interaction, client, profileData);
+                command.execute(interaction, client);
             } catch (error) {
                 console.error(error);
                 await interaction.reply({
